@@ -1,4 +1,4 @@
-#ifndef _sum_h_
-#define _sum_h_ 
+#ifndef _SUM_H_
+#define _SUM_H_ 
 sum(int a,int b)
 #endif
