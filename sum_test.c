@@ -5,5 +5,5 @@ int main()
 int b=20;
 int c=sum(a,b);
 printf("sum=%d", c);
-retuen 0;
+return 0;
 }
